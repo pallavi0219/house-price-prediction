@@ -1,2 +1,2 @@
 # house-price-prediction
-
+House price prediction involves forecasting future prices of residential properties using data and statistical models. It considers factors like location, property characteristics, market trends, and historical data. Location plays a significant role, with proximity to schools, public transport, and amenities impacting prices. Property characteristics, such as size, age, and condition, also influence prices.
